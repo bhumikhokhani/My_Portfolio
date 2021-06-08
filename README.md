@@ -14,7 +14,7 @@
  ->This contains few of my renders that I have made using <b>Blender3D</b>. <br>
  ->Also, includes few of my codepens, basically working with <b>HTML5</b>, <b>CSS3</b> and <b>JS</b>. (https://codepen.io/bhumikhokhani/)<br><br>
 ![MyWork](https://user-images.githubusercontent.com/40931657/121128380-edef1000-c848-11eb-9561-92ed1221981a.png)
-  <br><br><h3>My Contact Me Page</h3>
+  <br><br><h3>Contact Me Page</h3>
   ->This basically links again to the footer, giving all the <b>contact information</b> to check my work or reach out to me.<br><br> 
 ![ContactMe](https://user-images.githubusercontent.com/40931657/121128342-e16ab780-c848-11eb-9668-9be37961644d.png)
 
