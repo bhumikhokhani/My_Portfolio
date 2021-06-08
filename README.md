@@ -1,2 +1,2 @@
-My Portfolio Website made using React.<br\>
+My Portfolio Website made using React.<br>
 Author: Bhumi Khokhani
