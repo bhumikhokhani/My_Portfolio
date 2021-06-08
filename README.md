@@ -14,7 +14,8 @@
 
 <h3>>My Work Page</h3>
  ->This contains few of my renders that I have made using <b>Blender3D</b>. <br>
- ->Also, includes few of my codepens, basically working with <b>HTML5</b>, <b>CSS3</b> and <b>JS</b>. (https://codepen.io/bhumikhokhani/)<br><br>
+ ->Also, includes few of my codepens, basically working with <b>HTML5</b>, <b>CSS3</b> and <b>JS</b>. (https://codepen.io/bhumikhokhani/) <br>
+ ->When hovered over any item, there is a small animation occuring.<br><br>
  
 ![MyWork](https://user-images.githubusercontent.com/40931657/121128380-edef1000-c848-11eb-9561-92ed1221981a.png)
 
